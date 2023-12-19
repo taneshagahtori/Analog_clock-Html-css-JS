@@ -1,1 +1,1 @@
-# Analog_clock-Html-css-JS
+An Analog clock built with HTML, CSS, and JS
